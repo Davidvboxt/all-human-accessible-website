@@ -1,29 +1,9 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# OBA update
 
-## Inhoudsopgave
+In dit onderdeel ga ik mijn OBA project verbeteren doormiddel van de feedack van mijn opdrachtgevers en de testsen die ik heb afgelegd voor de toegankelijkheid. De user story die ik heb gekozen is het maken van een overzichtspagina van alle studeerplekken binnen de OBA vestigingen. 
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+Mijn eerste stap was het analyseren van de overzichtpagina om het daarna vervolgens te schetsen. Aan de hand van mijn schets ben ik begonnen te bouwen. Boven aan de website zorgde ik voor een header die duidelijk de titel van de website zou laten zien, namelijk de OBA vestigingen. Daaronder zit een search functie om het zoeken naar een vestiging makkelijker te maken. Ten slot bevindt zich er een lijst met de vestigingen en een map met alle vestigingen erop. 
 
-## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
-
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
-
-
-
-## Bronnen
-
-## Licentie
-
-![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
-
-This work is licensed under [GNU GPLv3](./LICENSE).
+Daarna verwerkte ik de feedback die ik kreeg van mijn opdracht gevers na het maken van de website. Ik zorgde er ook voor dat de website meer toegankelijk zou zijn. Dit deed ik doormiddel door de Lighthouse test en handmatige testen.
