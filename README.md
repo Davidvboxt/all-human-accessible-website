@@ -1,5 +1,9 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
+
+![Schermopname (2)](https://user-images.githubusercontent.com/112856021/198546672-f17b1d53-d8a3-44a7-9e5d-c36127411624.png)
+
+
 # OBA update
 
 In dit onderdeel ga ik mijn OBA project verbeteren doormiddel van de feedack van mijn opdrachtgevers en de testsen die ik heb afgelegd voor de toegankelijkheid. De user story die ik heb gekozen is het maken van een overzichtspagina van alle studeerplekken binnen de OBA vestigingen. 
